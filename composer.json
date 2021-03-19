@@ -1,0 +1,13 @@
+{
+    "name": "andy2639/design-patterns",
+    "description": "Pruebas de patrones de dise\u0000o en PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andres Guerrero",
+            "email": "andy2639tds@gmail.com"
+        }
+    ],
+    "require": {}
+}
