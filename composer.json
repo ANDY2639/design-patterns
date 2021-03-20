@@ -9,5 +9,10 @@
             "email": "andy2639tds@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Anel\\": "src/"
+        }
+    },
     "require": {}
 }
